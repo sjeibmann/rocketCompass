@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="239px" height="239px" viewBox="0 0 239 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>rocketCompass</title>
+    <g id="rocketCompass" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M105.105037,160.213114 L105.065953,160.372704 C104.534244,162.810983 107.086833,164.826279 109.356376,163.675863 L148.5,143.834 L187.643624,163.675863 C189.962505,164.851288 192.576872,162.721866 191.894963,160.213114 L151.394963,11.2131141 C150.592895,8.2622953 146.407105,8.2622953 145.605037,11.2131141 L105.105037,160.213114 Z" id="Rocket" stroke="#FFFFFF" stroke-width="6" fill-rule="nonzero" transform="translate(148.500000, 86.504090) rotate(-315.000000) translate(-148.500000, -86.504090) "></path>
+        <line x1="92.5877084" y1="139.14967" x2="49.7265419" y2="182.010836" id="Jet1" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></line>
+        <line x1="92.8611665" y1="178" x2="50" y2="220.861167" id="Jet3" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></line>
+        <line x1="59.8611665" y1="135" x2="17" y2="177.861167" id="Jet2" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></line>
+    </g>
+</svg>

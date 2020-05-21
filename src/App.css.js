@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const Wrapper = styled.svg`
+export const Wrapper = styled.svg`
   width:300px;
   height:300px;
   display: "flex";
@@ -44,5 +44,3 @@ const Wrapper = styled.svg`
       }
     }
 `;
-
-export default Wrapper;
